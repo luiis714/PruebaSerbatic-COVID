@@ -3,8 +3,24 @@
   <groupId>MangasRuiz_Luis_PruebaSerbatic</groupId>
   <artifactId>MangasRuiz_Luis_PruebaSerbatic</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+ 
+	<dependencies>
+		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
+		<dependency>
+		    <groupId>log4j</groupId>
+		    <artifactId>log4j</artifactId>
+		    <version>1.2.17</version>
+		</dependency>
+		<dependency>
+		    <groupId>log4j</groupId>
+		    <artifactId>apache-log4j-extras</artifactId>
+			<version>1.2.17</version>
+		</dependency>	
+	</dependencies>
+  
   <build>
     <sourceDirectory>src</sourceDirectory>
+
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -15,5 +31,6 @@
         </configuration>
       </plugin>
     </plugins>
+    
   </build>
 </project>
