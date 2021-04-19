@@ -4,7 +4,11 @@ package Operaciones;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
 import BBDD.OperacionesBBDD;
+import Main.Principal;
 import Personas.Enfermero;
 import Personas.Paciente;
 import Personas.Persona;
@@ -19,6 +23,8 @@ public class Contenedora {
 	public static ArrayList<Paciente> listaPacientes = new ArrayList<>();
 	public static ArrayList<Paciente> listaInfectados = new ArrayList<>();
 	
+	private static Logger log = LogManager.getLogger(Principal.class);
+	
 	public static void generaColecciones(int idCiudad) {
 		
 		try {
@@ -26,6 +32,7 @@ public class Contenedora {
 			listaGeneral = (ArrayList<Persona>) OperacionesBBDD.consultarPersonasCiudad(idCiudad);
 		} catch (SQLException e) {
 			System.out.println("Error al recuperar la lista");
+			log.error("Error al recuperar la lista");
 		}
 		
 		//Agrupo en dos listas de PACIENTES y ENFERMEROS
@@ -43,7 +50,7 @@ public class Contenedora {
 		}
 		//Informo al usuario
 		System.out.println("Listas generadas con exito");
-		
+		log.info("Listas generadas con exito");
 		/*//PRUEBA QUE MUESTRA LAS DOS LISTAS
 		System.out.println("PACIENTES\n");
 		for(short i = 0; i < listaPacientes.size(); i++) 

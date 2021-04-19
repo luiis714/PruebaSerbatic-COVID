@@ -2,12 +2,19 @@ package BBDD;
 
 import java.util.ArrayList;
 
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+import Main.Principal;
 import Operaciones.Contenedora;
 import Personas.Paciente;
+import jdk.internal.org.jline.utils.Log;
 
 public class HiloInsertarBBDD extends Thread {
 	
 	int inicio, fin;
+	
+	private static Logger log = LogManager.getLogger(Principal.class);
 	
 	public HiloInsertarBBDD(int inicio, int fin) {
 		//Para indicar DESDE donde HASTA donde se quiere insertar
@@ -22,5 +29,6 @@ public class HiloInsertarBBDD extends Thread {
 		
 		//Informa al usuario
 		System.out.println("Inserción correcta.");
+		log.info("Inserción correcta");
 	}
 }

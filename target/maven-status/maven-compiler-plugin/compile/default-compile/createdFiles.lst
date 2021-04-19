@@ -1,0 +1,12 @@
+VO\PersonaVO.class
+Personas\Persona.class
+BBDD\HiloInsertarBBDD.class
+BBDD\OperacionesBBDD.class
+PropiedadesPersonas\Moveable.class
+PropiedadesPersonas\Infectable.class
+BBDD\Conexion.class
+Personas\Paciente.class
+Operaciones\Contenedora.class
+Main\Principal.class
+Personas\Enfermero.class
+PropiedadesPersonas\Vacunable.class

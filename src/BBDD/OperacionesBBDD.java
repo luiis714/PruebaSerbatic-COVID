@@ -10,12 +10,18 @@ import java.sql.Types;
 import java.util.ArrayList;
 import java.util.Collection;
 
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+import Main.Principal;
 import Personas.Persona;
 
 public class OperacionesBBDD {
 	
 	private static Connection conexion = Conexion.getConexion();
     private static Statement st;
+    
+    private static Logger log = LogManager.getLogger(Principal.class);
     
     public OperacionesBBDD() {
     	this.conexion = Conexion.getConexion();
@@ -54,6 +60,7 @@ public class OperacionesBBDD {
 	            ps.close();
 			} catch (SQLException e) {
 				System.out.println("Error en la inserción. " + e.getMessage());
+				log.error("Error en la inserción. " + e.getMessage());
 			}
     }
     

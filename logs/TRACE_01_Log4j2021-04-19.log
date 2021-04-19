@@ -1,0 +1,462 @@
+[2021-04-19 19:37:26] [ INFO ] [Principal:28] Ciudad sacada correctamente. Ciudad: 9
+[2021-04-19 19:37:26] [ INFO ] [Principal:53] Listas generadas con exito
+[2021-04-19 19:37:26] [ INFO ] [Principal:34] Colecciones generadas
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:37:26] [ INFO ] [Principal:37] Día simulado correctamente
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '10' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '11' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '18' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '20' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '22' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '45' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '63' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '66' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '72' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '73' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '87' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '99' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '100' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '126' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '156' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '177' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '180' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '200' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '204' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '206' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '217' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '232' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '242' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '257' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '262' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '272' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '274' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '291' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '299' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '733' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '744' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '765' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '779' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '781' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '786' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '789' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '807' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '809' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '811' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '831' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '833' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '835' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '840' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '848' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '873' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '876' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '904' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '906' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '907' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '911' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '917' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '921' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '922' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '930' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '946' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '951' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '952' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '965' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '975' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '987' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '551' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '554' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '560' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '564' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '569' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '582' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '602' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '607' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '609' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '613' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '617' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '623' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '627' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '634' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '644' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '665' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '667' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '669' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '686' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '688' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '694' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '705' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '709' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '711' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '715' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '719' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '723' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '728' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '729' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '303' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '316' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '317' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '326' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '349' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '357' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '359' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '370' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '372' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '376' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '384' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '385' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '391' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '398' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '401' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '407' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '445' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '446' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '447' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '449' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '458' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '503' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '509' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '512' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '522' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '530' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '537' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '541' for key 'PRIMARY'
+[2021-04-19 19:37:26] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '550' for key 'PRIMARY'
+[2021-04-19 19:39:31] [ INFO ] [Principal:28] Ciudad sacada correctamente. Ciudad: 10
+[2021-04-19 19:39:31] [ INFO ] [Principal:53] Listas generadas con exito
+[2021-04-19 19:39:31] [ INFO ] [Principal:34] Colecciones generadas
+[2021-04-19 19:39:31] [ INFO ] [Principal:37] Día simulado correctamente
+[2021-04-19 19:39:58] [ INFO ] [Principal:28] Ciudad sacada correctamente. Ciudad: 2
+[2021-04-19 19:39:59] [ INFO ] [Principal:53] Listas generadas con exito
+[2021-04-19 19:39:59] [ INFO ] [Principal:34] Colecciones generadas
+[2021-04-19 19:39:59] [ INFO ] [Principal:37] Día simulado correctamente
+[2021-04-19 19:40:36] [ INFO ] [Principal:28] Ciudad sacada correctamente. Ciudad: 9
+[2021-04-19 19:40:36] [ INFO ] [Principal:53] Listas generadas con exito
+[2021-04-19 19:40:36] [ INFO ] [Principal:34] Colecciones generadas
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:40:36] [ INFO ] [Principal:37] Día simulado correctamente
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '10' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '11' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '18' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '20' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '22' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '45' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '63' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '66' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '72' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '73' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '87' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '99' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '100' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '126' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '156' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '177' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '180' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '200' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '204' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '206' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '217' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '232' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '242' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '257' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '262' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '272' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '274' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '291' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '299' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '733' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '744' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '765' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '779' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '781' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '786' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '789' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '807' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '809' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '811' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '831' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '833' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '835' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '840' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '848' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '873' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '876' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '904' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '906' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '907' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '911' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '917' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '921' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '922' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '930' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '946' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '951' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '952' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '965' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '975' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '987' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '551' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '554' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '560' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '564' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '569' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '582' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '602' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '607' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '609' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '613' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '617' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '623' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '627' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '634' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '644' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '665' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '667' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '669' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '686' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '688' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '694' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '705' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '709' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '711' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '715' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '719' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '723' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '728' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '729' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '303' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '316' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '317' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '326' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '349' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '357' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '359' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '370' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '372' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '376' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '384' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '385' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '391' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '398' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '401' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '407' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '445' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '446' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '447' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '449' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '458' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '503' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '509' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '512' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '522' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '530' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '537' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '541' for key 'PRIMARY'
+[2021-04-19 19:40:36] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '550' for key 'PRIMARY'
+[2021-04-19 19:41:56] [ INFO ] [Principal:28] Ciudad sacada correctamente. Ciudad: 9
+[2021-04-19 19:41:57] [ INFO ] [Principal:53] Listas generadas con exito
+[2021-04-19 19:41:57] [ INFO ] [Principal:34] Colecciones generadas
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:41:57] [ INFO ] [Principal:37] Día simulado correctamente
+[2021-04-19 19:42:49] [ INFO ] [Principal:28] Ciudad sacada correctamente. Ciudad: 9
+[2021-04-19 19:42:50] [ INFO ] [Principal:53] Listas generadas con exito
+[2021-04-19 19:42:50] [ INFO ] [Principal:34] Colecciones generadas
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:26] paciente vacunado
+[2021-04-19 19:42:50] [ INFO ] [Principal:37] Día simulado correctamente
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '10' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '11' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '18' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '20' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '22' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '45' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '63' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '66' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '72' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '73' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '87' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '99' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '100' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '126' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '156' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '177' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '180' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '200' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '204' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '206' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '217' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '232' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '242' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '257' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '262' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '272' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '274' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '291' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '299' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ INFO ] [Principal:32] Inserción correcta
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '733' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '744' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '765' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '779' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '781' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '786' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '789' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '807' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '809' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '811' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '831' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '833' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '835' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '840' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '848' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '873' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '876' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '904' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '906' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '907' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '911' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '917' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '921' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '922' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '930' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '946' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '951' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '952' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '965' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '975' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '987' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ INFO ] [Principal:32] Inserción correcta
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '551' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '554' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '560' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '564' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '569' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '582' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '602' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '607' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '609' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '613' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '617' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '623' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '627' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '634' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '644' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '665' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '667' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '669' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '686' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '688' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '694' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '705' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '709' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '711' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '715' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '719' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '723' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '728' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '729' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ INFO ] [Principal:32] Inserción correcta
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '303' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '316' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '317' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '326' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '349' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '357' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '359' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '370' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '372' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '376' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '384' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '385' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '391' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '398' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '401' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '407' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '445' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '446' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '447' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '449' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '458' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '503' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '509' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '512' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '522' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '530' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '537' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '541' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ ERROR] [Principal:63] Error en la inserción. Duplicate entry '550' for key 'PRIMARY'
+[2021-04-19 19:42:50] [ INFO ] [Principal:32] Inserción correcta

@@ -4,6 +4,11 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+import Main.Principal;
+
 public class Conexion {
 	static String bd = "prueba_serbatic";
 	static String login = "root";
@@ -13,11 +18,12 @@ public class Conexion {
 	static String url = "jdbc:mysql://";
 	static Connection conexion; //atributo para  guardar el objeto Connection
 	
+	private static Logger log = LogManager.getLogger(Principal.class);
+	
     public static Connection getConexion() {
 	    if (conexion == null) 
 	    	crearConexion();
             
-	    
 	    return conexion;
     }
     
@@ -47,6 +53,7 @@ public class Conexion {
     	
     	} catch (SQLException e) {
     		System.out.println("Error al cerrar la conexion");
+    		log.error("");
         }
     }
 }

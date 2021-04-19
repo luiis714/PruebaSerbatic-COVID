@@ -3,11 +3,18 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+import Main.Principal;
 import PropiedadesPersonas.Infectable;
 import PropiedadesPersonas.Vacunable;
+import jdk.internal.org.jline.utils.Log;
 
 public class Enfermero extends Persona implements Vacunable{
-
+	
+	private static Logger log = LogManager.getLogger(Principal.class);
+	
 	public Enfermero(Persona p) {
 		super(p);
 	}
@@ -16,6 +23,7 @@ public class Enfermero extends Persona implements Vacunable{
 	public void vacunar(Paciente infectado) {
 		//Cambio el infectar a false para que quede vacunado
 		infectado.infectar(false);
+		log.info("paciente vacunado");
 	}
 
 	@Override
