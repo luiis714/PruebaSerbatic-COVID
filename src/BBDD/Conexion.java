@@ -28,7 +28,7 @@ public class Conexion {
 	        Class.forName("com.mysql.jdbc.Driver");
 	        conexion = DriverManager.getConnection(url + host + "/"+ bd, login, password);
 	      
-                conexion.setAutoCommit(false);
+			conexion.setAutoCommit(false);
 	        
 	    } catch (SQLException e) {
 	    	return false;
@@ -37,6 +37,7 @@ public class Conexion {
 	    	return false;
 	    }
 	    return true;
+		
     }
 
     public static void desconectar(){
